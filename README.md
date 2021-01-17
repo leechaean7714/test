@@ -1,3 +1,8 @@
+
+<script src="http://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.4/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
+
 ```mermaid
 classDiagram
     Animal <|-- Duck
